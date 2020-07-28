@@ -1,0 +1,2 @@
+language = "java10"
+run = "javac -cp Main.java Marvel.java; java Main.java"
